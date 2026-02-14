@@ -26,9 +26,6 @@ A full-stack web application built using Flask that allows users to register, lo
 
 ---
 
-
----
-
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
